@@ -6,6 +6,7 @@ public class Principal {
 		// TODO Auto-generated method stub
 		System.out.println("Hola Mundo");
 		System.out.println("Haciendo pruebas con commit y push");
+		System.out.println("Mismo proceso desde la máquina clonada");
 	}
 
 }
